@@ -1,1 +1,1 @@
-# simple_shell
+my readme file for the group project
